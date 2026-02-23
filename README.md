@@ -27,4 +27,4 @@ _(Hình từ check.py – thấy rõ sự khác biệt nhỏ nhưng rất đáng
 **Tác giả
 HuyRemy
 huynq@isi.com.vn**
-_Mess: Sometimes "giống nhau" không đủ..._
+_Mess: Sometimes "giống nhau" là không đủ..._
