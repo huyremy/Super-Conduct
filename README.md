@@ -8,9 +8,6 @@ So sánh hai file âm thanh MP3 xem chúng có thực sự "giống nhau" hay kh
 ```bash
 pip install numpy scipy matplotlib pydub
 Run: python check.py
---
-Cách chạy
-Bashpython check.py
 ```
 Kết quả
 
