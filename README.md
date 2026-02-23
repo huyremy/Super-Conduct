@@ -1,5 +1,4 @@
 # Super-Conduct  
-**Check Sine Wave**
 
 ## Mục đích
 So sánh hai file âm thanh MP3 xem chúng có thực sự "giống nhau" hay không, dù tai nghe thì... giống lắm!
