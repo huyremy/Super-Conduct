@@ -27,3 +27,4 @@ Nhưng khi vẽ waveform trong check.py thì... DNA.mp3 có gì đó rất lạ
 **Tác giả
 HuyRemy
 huynq@isi.com.vn**
+mess: Super-Conduct project – Because sometimes "giống nhau" không đủ...
