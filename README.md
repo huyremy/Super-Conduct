@@ -11,7 +11,7 @@ Run: python check.py
 Kết quả
 
 Nghe bằng tai thường: Hai file MP3 nghe thì y chang nhau
-Nhưng khi vẽ waveform trong check.py thì... DNA.mp3 có gì đó rất lạ
+nhưng khi vẽ waveform trong check.py thì... DNA.mp3 có gì đó rất lạ
 
 → Bí mật thôi, công nghệ quốc phòng đấy  😏
 --
