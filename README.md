@@ -21,8 +21,9 @@ Nhưng khi vẽ waveform trong check.py thì... DNA.mp3 có gì đó rất lạ
 --
 
 <img width="935" height="663" alt="image" src="https://github.com/user-attachments/assets/0ce3cf91-0dcd-45ee-97d6-dff0e954487c" />
+
 (Hình từ check.py – thấy rõ sự khác biệt nhỏ nhưng rất đáng nghi ngờ)
 --
-Tác giả
+**Tác giả
 HuyRemy
-huynq@isi.com.vn
+huynq@isi.com.vn**
